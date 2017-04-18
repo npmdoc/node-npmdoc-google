@@ -1,9 +1,14 @@
-# api documentation for  [google (v2.1.0)](https://github.com/jprichardson/node-google)  [![npm package](https://img.shields.io/npm/v/npmdoc-google.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-google) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-google.svg)](https://travis-ci.org/npmdoc/node-npmdoc-google)
+# npmdoc-google
+
+#### api documentation for  [google (v2.1.0)](https://github.com/jprichardson/node-google)  [![npm package](https://img.shields.io/npm/v/npmdoc-google.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-google) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-google.svg)](https://travis-ci.org/npmdoc/node-npmdoc-google)
+
 #### A module to search and scrape google. This is not sponsored, supported, or affiliated with Google Inc.
 
-[![NPM](https://nodei.co/npm/google.png?downloads=true)](https://www.npmjs.com/package/google)
+[![NPM](https://nodei.co/npm/google.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/google)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-google/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-google_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-google/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-google/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-google/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-google/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-google/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-google/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "JP Richardson",
-        "email": "jprichardson@gmail.com"
+        "name": "JP Richardson"
     },
     "bugs": {
         "url": "https://github.com/jprichardson/node-google/issues"
@@ -50,13 +54,11 @@
     "main": "./lib/google",
     "maintainers": [
         {
-            "name": "jprichardson",
-            "email": "jprichardson@gmail.com"
+            "name": "jprichardson"
         }
     ],
     "name": "google",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jprichardson/node-google.git"
@@ -67,22 +69,6 @@
     "version": "2.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module google](#apidoc.module.google)
-1.  number <span class="apidocSignatureSpan">google.</span>resultsPerPage
-1.  object <span class="apidocSignatureSpan">google.</span>requestOptions
-1.  string <span class="apidocSignatureSpan">google.</span>lang
-1.  string <span class="apidocSignatureSpan">google.</span>nextText
-1.  string <span class="apidocSignatureSpan">google.</span>protocol
-1.  string <span class="apidocSignatureSpan">google.</span>tld
-
-
-
-# <a name="apidoc.module.google"></a>[module google](#apidoc.module.google)
 
 
 
