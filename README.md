@@ -1,6 +1,6 @@
 # npmdoc-google
 
-#### api documentation for  [google (v2.1.0)](https://github.com/jprichardson/node-google)  [![npm package](https://img.shields.io/npm/v/npmdoc-google.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-google) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-google.svg)](https://travis-ci.org/npmdoc/node-npmdoc-google)
+#### basic api documentation for  [google (v2.1.0)](https://github.com/jprichardson/node-google)  [![npm package](https://img.shields.io/npm/v/npmdoc-google.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-google) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-google.svg)](https://travis-ci.org/npmdoc/node-npmdoc-google)
 
 #### A module to search and scrape google. This is not sponsored, supported, or affiliated with Google Inc.
 
@@ -66,7 +66,8 @@
     "scripts": {
         "test": "standard && mocha"
     },
-    "version": "2.1.0"
+    "version": "2.1.0",
+    "bin": {}
 }
 ```
 
